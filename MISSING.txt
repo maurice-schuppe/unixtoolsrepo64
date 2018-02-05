@@ -1,0 +1,7 @@
+coreutils-bin:
+	/bin/su
+system-cmds:
+	/usr/sbin/update (gone from system-cmds)
+uikittools:
+	/usr/bin/iomfsetgamma
+	/usr/bin/sbdidlaunch
